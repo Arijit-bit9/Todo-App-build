@@ -92,7 +92,7 @@ function App() {
             value={todo}
             onChange={handelChange}
             type="text"
-            className="border border-gray-300 rounded px-2 py-1 my-3 w-100 focus:outline-none focus:ring-2 focus:ring-purple-500"
+            className="border border-gray-300 rounded px-2 py-1 my-3 md:w-100 focus:outline-none focus:ring-2 focus:ring-purple-500"
           />
 
           <button
